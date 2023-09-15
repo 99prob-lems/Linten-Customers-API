@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "ff44541d-3c57-4352-be57-9c235b276712",
+    "Name": "John Doe",
+    "Email": "",
+    "Phone": "",
+    "Address": "",
+    "City": "",
+    "State": "",
+    "Zip": "",
+    "Country": "",
+    "Notes": ""
+  },
+  {
+    "Id": "0a924f68-8a0f-4d9c-acdc-dcc599fcf3a4",
+    "Name": "Jane Doe",
+    "Email": "",
+    "Phone": "",
+    "Address": "",
+    "City": "",
+    "State": "",
+    "Zip": "",
+    "Country": "",
+    "Notes": ""
+  }
+]
