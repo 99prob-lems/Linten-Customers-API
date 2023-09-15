@@ -50,5 +50,3 @@ Once the tests are completed, a detailed report will be generated. You can acces
 The report provides a visual breakdown of the performance tests, allowing you to gauge the efficiency, speed, and robustness of the tested services.
 
 ---
-
-This is structured in `.md` (Markdown) format. You can create a `README.md` file in the root of your project directory and copy-paste this content into it. When viewed on platforms like GitHub, the formatting will render appropriately for better readability.
